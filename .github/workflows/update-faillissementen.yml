@@ -2,7 +2,7 @@ name: Update faillissementen data
 
 on:
   schedule:
-    - cron: "0 2 * * *" # daily 02:00 UTC
+    - cron: "0 2 * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -14,6 +14,9 @@ env:
 jobs:
   fetch-and-commit:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: faillissementen-kaart-be
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -24,8 +27,7 @@ jobs:
           python-version: "3.11"
 
       - name: Download VAT-lijst uit KBO daily
-        run: |
-          python3 scripts/fetch_kbo_daily_vats.py
+        run: python3 scripts/fetch_kbo_daily_vats.py
         continue-on-error: true
 
       - name: Fetch faillissementen via Staatsbladmonitor
