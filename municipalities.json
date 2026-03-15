@@ -1,0 +1,3904 @@
+[
+  {
+    "id": "antwerpen",
+    "name": "Antwerpen",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.2194,
+    "lng": 4.4025
+  },
+  {
+    "id": "mechelen",
+    "name": "Mechelen",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.0257,
+    "lng": 4.4776
+  },
+  {
+    "id": "turnhout",
+    "name": "Turnhout",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.3226,
+    "lng": 4.9447
+  },
+  {
+    "id": "lier",
+    "name": "Lier",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.1305,
+    "lng": 4.5695
+  },
+  {
+    "id": "herentals",
+    "name": "Herentals",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.1787,
+    "lng": 4.8338
+  },
+  {
+    "id": "mol",
+    "name": "Mol",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.1871,
+    "lng": 5.1155
+  },
+  {
+    "id": "geel",
+    "name": "Geel",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.1624,
+    "lng": 4.9863
+  },
+  {
+    "id": "mortsel",
+    "name": "Mortsel",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.1782,
+    "lng": 4.4572
+  },
+  {
+    "id": "berchem",
+    "name": "Berchem",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.1944,
+    "lng": 4.4222
+  },
+  {
+    "id": "borgerhout",
+    "name": "Borgerhout",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.2133,
+    "lng": 4.4497
+  },
+  {
+    "id": "wilrijk",
+    "name": "Wilrijk",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.1697,
+    "lng": 4.3933
+  },
+  {
+    "id": "hoboken",
+    "name": "Hoboken",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.1762,
+    "lng": 4.3569
+  },
+  {
+    "id": "merksem",
+    "name": "Merksem",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.2478,
+    "lng": 4.4436
+  },
+  {
+    "id": "deurne",
+    "name": "Deurne",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.2211,
+    "lng": 4.4779
+  },
+  {
+    "id": "ekeren",
+    "name": "Ekeren",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.2795,
+    "lng": 4.4176
+  },
+  {
+    "id": "kontich",
+    "name": "Kontich",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.1331,
+    "lng": 4.4463
+  },
+  {
+    "id": "aartselaar",
+    "name": "Aartselaar",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.1272,
+    "lng": 4.3886
+  },
+  {
+    "id": "boechout",
+    "name": "Boechout",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.1585,
+    "lng": 4.5108
+  },
+  {
+    "id": "edegem",
+    "name": "Edegem",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.1547,
+    "lng": 4.4447
+  },
+  {
+    "id": "hove",
+    "name": "Hove",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.1432,
+    "lng": 4.4635
+  },
+  {
+    "id": "lint",
+    "name": "Lint",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.1246,
+    "lng": 4.5007
+  },
+  {
+    "id": "niel",
+    "name": "Niel",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.1091,
+    "lng": 4.3324
+  },
+  {
+    "id": "rumst",
+    "name": "Rumst",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.0932,
+    "lng": 4.4248
+  },
+  {
+    "id": "schelle",
+    "name": "Schelle",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.1052,
+    "lng": 4.3556
+  },
+  {
+    "id": "hemiksem",
+    "name": "Hemiksem",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.1028,
+    "lng": 4.3377
+  },
+  {
+    "id": "boom",
+    "name": "Boom",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.0895,
+    "lng": 4.3699
+  },
+  {
+    "id": "niel2",
+    "name": "Niel",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.1091,
+    "lng": 4.3324
+  },
+  {
+    "id": "sint-katelijne-waver",
+    "name": "Sint-Katelijne-Waver",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.0666,
+    "lng": 4.5282
+  },
+  {
+    "id": "duffel",
+    "name": "Duffel",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.0933,
+    "lng": 4.5138
+  },
+  {
+    "id": "bonheiden",
+    "name": "Bonheiden",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.0244,
+    "lng": 4.5316
+  },
+  {
+    "id": "putte",
+    "name": "Putte",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.0408,
+    "lng": 4.6421
+  },
+  {
+    "id": "berlaar",
+    "name": "Berlaar",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.1146,
+    "lng": 4.6521
+  },
+  {
+    "id": "nijlen",
+    "name": "Nijlen",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.1605,
+    "lng": 4.6636
+  },
+  {
+    "id": "zandhoven",
+    "name": "Zandhoven",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.2088,
+    "lng": 4.6663
+  },
+  {
+    "id": "malle",
+    "name": "Malle",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.3009,
+    "lng": 4.7103
+  },
+  {
+    "id": "zoersel",
+    "name": "Zoersel",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.2619,
+    "lng": 4.7134
+  },
+  {
+    "id": "ranst",
+    "name": "Ranst",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.2152,
+    "lng": 4.5759
+  },
+  {
+    "id": "wommelgem",
+    "name": "Wommelgem",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.2091,
+    "lng": 4.5219
+  },
+  {
+    "id": "wijnegem",
+    "name": "Wijnegem",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.2295,
+    "lng": 4.5163
+  },
+  {
+    "id": "schoten",
+    "name": "Schoten",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.2559,
+    "lng": 4.5025
+  },
+  {
+    "id": "brasschaat",
+    "name": "Brasschaat",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.2988,
+    "lng": 4.4977
+  },
+  {
+    "id": "kapellen",
+    "name": "Kapellen",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.3196,
+    "lng": 4.4323
+  },
+  {
+    "id": "stabroek",
+    "name": "Stabroek",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.3344,
+    "lng": 4.3674
+  },
+  {
+    "id": "beveren",
+    "name": "Beveren",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.2102,
+    "lng": 4.2573
+  },
+  {
+    "id": "sint-gillis-waas",
+    "name": "Sint-Gillis-Waas",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.2214,
+    "lng": 4.1194
+  },
+  {
+    "id": "stekene",
+    "name": "Stekene",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.2012,
+    "lng": 4.0393
+  },
+  {
+    "id": "kruibeke",
+    "name": "Kruibeke",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.1718,
+    "lng": 4.3092
+  },
+  {
+    "id": "zwijndrecht",
+    "name": "Zwijndrecht",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.2174,
+    "lng": 4.3283
+  },
+  {
+    "id": "westerlo",
+    "name": "Westerlo",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.0896,
+    "lng": 4.9178
+  },
+  {
+    "id": "heist-op-den-berg",
+    "name": "Heist-op-den-Berg",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.0716,
+    "lng": 4.7213
+  },
+  {
+    "id": "hulshout",
+    "name": "Hulshout",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.0777,
+    "lng": 4.7866
+  },
+  {
+    "id": "laakdal",
+    "name": "Laakdal",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.0697,
+    "lng": 5.0029
+  },
+  {
+    "id": "meerhout",
+    "name": "Meerhout",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.1267,
+    "lng": 5.0759
+  },
+  {
+    "id": "balen",
+    "name": "Balen",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.1684,
+    "lng": 5.1622
+  },
+  {
+    "id": "dessel",
+    "name": "Dessel",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.2371,
+    "lng": 5.1129
+  },
+  {
+    "id": "retie",
+    "name": "Retie",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.2681,
+    "lng": 5.0816
+  },
+  {
+    "id": "arendonk",
+    "name": "Arendonk",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.3241,
+    "lng": 5.0862
+  },
+  {
+    "id": "ravels",
+    "name": "Ravels",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.3706,
+    "lng": 5.0027
+  },
+  {
+    "id": "merksplas",
+    "name": "Merksplas",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.3659,
+    "lng": 4.8599
+  },
+  {
+    "id": "beerse",
+    "name": "Beerse",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.3204,
+    "lng": 4.8594
+  },
+  {
+    "id": "vosselaar",
+    "name": "Vosselaar",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.3022,
+    "lng": 4.8879
+  },
+  {
+    "id": "oud-turnhout",
+    "name": "Oud-Turnhout",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.3226,
+    "lng": 5.0211
+  },
+  {
+    "id": "lille",
+    "name": "Lille",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.2338,
+    "lng": 4.8277
+  },
+  {
+    "id": "hoogstraten",
+    "name": "Hoogstraten",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.3999,
+    "lng": 4.7617
+  },
+  {
+    "id": "rijkevorsel",
+    "name": "Rijkevorsel",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.3528,
+    "lng": 4.7697
+  },
+  {
+    "id": "baarle-hertog",
+    "name": "Baarle-Hertog",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.4431,
+    "lng": 4.9298
+  },
+  {
+    "id": "kasterlee",
+    "name": "Kasterlee",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.2457,
+    "lng": 4.9682
+  },
+  {
+    "id": "vorselaar",
+    "name": "Vorselaar",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.2041,
+    "lng": 4.7935
+  },
+  {
+    "id": "olen",
+    "name": "Olen",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.1461,
+    "lng": 4.8629
+  },
+  {
+    "id": "herselt",
+    "name": "Herselt",
+    "province": "Antwerpen",
+    "region": "Vlaanderen",
+    "lat": 51.0572,
+    "lng": 4.8793
+  },
+  {
+    "id": "gent",
+    "name": "Gent",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.0543,
+    "lng": 3.7174
+  },
+  {
+    "id": "aalst",
+    "name": "Aalst",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.9381,
+    "lng": 4.0355
+  },
+  {
+    "id": "sint-niklaas",
+    "name": "Sint-Niklaas",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.1701,
+    "lng": 4.1429
+  },
+  {
+    "id": "dendermonde",
+    "name": "Dendermonde",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.0282,
+    "lng": 4.1007
+  },
+  {
+    "id": "lokeren",
+    "name": "Lokeren",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.1049,
+    "lng": 3.9887
+  },
+  {
+    "id": "ronse",
+    "name": "Ronse",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "aliases": [
+      "Renaix"
+    ],
+    "lat": 50.7441,
+    "lng": 3.599
+  },
+  {
+    "id": "oudenaarde",
+    "name": "Oudenaarde",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.8443,
+    "lng": 3.607
+  },
+  {
+    "id": "eeklo",
+    "name": "Eeklo",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.1864,
+    "lng": 3.568
+  },
+  {
+    "id": "wetteren",
+    "name": "Wetteren",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.0017,
+    "lng": 3.8844
+  },
+  {
+    "id": "zottegem",
+    "name": "Zottegem",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.8738,
+    "lng": 3.8101
+  },
+  {
+    "id": "geraardsbergen",
+    "name": "Geraardsbergen",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.7694,
+    "lng": 3.8786
+  },
+  {
+    "id": "beveren-waas",
+    "name": "Beveren",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.2102,
+    "lng": 4.2573
+  },
+  {
+    "id": "temse",
+    "name": "Temse",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.1245,
+    "lng": 4.2122
+  },
+  {
+    "id": "hamme",
+    "name": "Hamme",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.0974,
+    "lng": 4.134
+  },
+  {
+    "id": "waasmunster",
+    "name": "Waasmunster",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.1158,
+    "lng": 4.0712
+  },
+  {
+    "id": "moerbeke",
+    "name": "Moerbeke",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.1629,
+    "lng": 3.9417
+  },
+  {
+    "id": "wachtebeke",
+    "name": "Wachtebeke",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.1591,
+    "lng": 3.8776
+  },
+  {
+    "id": "zelzate",
+    "name": "Zelzate",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.1952,
+    "lng": 3.8134
+  },
+  {
+    "id": "evergem",
+    "name": "Evergem",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.1113,
+    "lng": 3.7065
+  },
+  {
+    "id": "destelbergen",
+    "name": "Destelbergen",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.0502,
+    "lng": 3.8095
+  },
+  {
+    "id": "melle",
+    "name": "Melle",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.0001,
+    "lng": 3.8148
+  },
+  {
+    "id": "merelbeke",
+    "name": "Merelbeke",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.0,
+    "lng": 3.7524
+  },
+  {
+    "id": "de-pinte",
+    "name": "De Pinte",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.9736,
+    "lng": 3.6432
+  },
+  {
+    "id": "sint-martens-latem",
+    "name": "Sint-Martens-Latem",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.0024,
+    "lng": 3.628
+  },
+  {
+    "id": "deinze",
+    "name": "Deinze",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.0,
+    "lng": 3.5303
+  },
+  {
+    "id": "gavere",
+    "name": "Gavere",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.9242,
+    "lng": 3.6719
+  },
+  {
+    "id": "kruishoutem",
+    "name": "Kruishoutem",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.8994,
+    "lng": 3.5207
+  },
+  {
+    "id": "zulte",
+    "name": "Zulte",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.9481,
+    "lng": 3.4545
+  },
+  {
+    "id": "nazareth",
+    "name": "Nazareth",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.9491,
+    "lng": 3.5988
+  },
+  {
+    "id": "wortegem-petegem",
+    "name": "Wortegem-Petegem",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.8644,
+    "lng": 3.6009
+  },
+  {
+    "id": "kluisbergen",
+    "name": "Kluisbergen",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.7984,
+    "lng": 3.5197
+  },
+  {
+    "id": "maarkedal",
+    "name": "Maarkedal",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.8206,
+    "lng": 3.6521
+  },
+  {
+    "id": "lierde",
+    "name": "Lierde",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.8206,
+    "lng": 3.8225
+  },
+  {
+    "id": "brakel",
+    "name": "Brakel",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.8131,
+    "lng": 3.7565
+  },
+  {
+    "id": "horebeke",
+    "name": "Horebeke",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.8453,
+    "lng": 3.7165
+  },
+  {
+    "id": "zwalm",
+    "name": "Zwalm",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.8774,
+    "lng": 3.7195
+  },
+  {
+    "id": "herzele",
+    "name": "Herzele",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.8802,
+    "lng": 3.887
+  },
+  {
+    "id": "sint-lievens-houtem",
+    "name": "Sint-Lievens-Houtem",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.9162,
+    "lng": 3.8572
+  },
+  {
+    "id": "lede",
+    "name": "Lede",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.9638,
+    "lng": 3.983
+  },
+  {
+    "id": "haaltert",
+    "name": "Haaltert",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.9004,
+    "lng": 3.9967
+  },
+  {
+    "id": "erpe-mere",
+    "name": "Erpe-Mere",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.9278,
+    "lng": 3.9535
+  },
+  {
+    "id": "ninove",
+    "name": "Ninove",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.8344,
+    "lng": 4.0193
+  },
+  {
+    "id": "liedekerke",
+    "name": "Liedekerke",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.8672,
+    "lng": 4.0826
+  },
+  {
+    "id": "denderleeuw",
+    "name": "Denderleeuw",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.8857,
+    "lng": 4.0729
+  },
+  {
+    "id": "buggenhout",
+    "name": "Buggenhout",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.0175,
+    "lng": 4.199
+  },
+  {
+    "id": "lebbeke",
+    "name": "Lebbeke",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.0033,
+    "lng": 4.1317
+  },
+  {
+    "id": "berlare",
+    "name": "Berlare",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.029,
+    "lng": 3.9958
+  },
+  {
+    "id": "zele",
+    "name": "Zele",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.0654,
+    "lng": 3.9992
+  },
+  {
+    "id": "laarne",
+    "name": "Laarne",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.0291,
+    "lng": 3.849
+  },
+  {
+    "id": "oosterzele",
+    "name": "Oosterzele",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.953,
+    "lng": 3.7923
+  },
+  {
+    "id": "gavere2",
+    "name": "Gavere",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.9242,
+    "lng": 3.6719
+  },
+  {
+    "id": "kaprijke",
+    "name": "Kaprijke",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.2119,
+    "lng": 3.6177
+  },
+  {
+    "id": "sint-laureins",
+    "name": "Sint-Laureins",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.2334,
+    "lng": 3.5476
+  },
+  {
+    "id": "maldegem",
+    "name": "Maldegem",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.2053,
+    "lng": 3.4376
+  },
+  {
+    "id": "nevele",
+    "name": "Nevele",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.0378,
+    "lng": 3.5483
+  },
+  {
+    "id": "lovendegem",
+    "name": "Lovendegem",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.1061,
+    "lng": 3.5967
+  },
+  {
+    "id": "waarschoot",
+    "name": "Waarschoot",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.1425,
+    "lng": 3.5988
+  },
+  {
+    "id": "lievegem",
+    "name": "Lievegem",
+    "province": "Oost-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.13,
+    "lng": 3.66
+  },
+  {
+    "id": "brugge",
+    "name": "Brugge",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "aliases": [
+      "Bruges"
+    ],
+    "lat": 51.2093,
+    "lng": 3.2247
+  },
+  {
+    "id": "kortrijk",
+    "name": "Kortrijk",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "aliases": [
+      "Courtrai"
+    ],
+    "lat": 50.8269,
+    "lng": 3.2649
+  },
+  {
+    "id": "roeselare",
+    "name": "Roeselare",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.9455,
+    "lng": 3.1243
+  },
+  {
+    "id": "ieper",
+    "name": "Ieper",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "aliases": [
+      "Ypres"
+    ],
+    "lat": 50.851,
+    "lng": 2.8823
+  },
+  {
+    "id": "oostende",
+    "name": "Oostende",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "aliases": [
+      "Ostend"
+    ],
+    "lat": 51.2308,
+    "lng": 2.9181
+  },
+  {
+    "id": "menen",
+    "name": "Menen",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.7994,
+    "lng": 3.1212
+  },
+  {
+    "id": "waregem",
+    "name": "Waregem",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.8851,
+    "lng": 3.4337
+  },
+  {
+    "id": "harelbeke",
+    "name": "Harelbeke",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.8551,
+    "lng": 3.3115
+  },
+  {
+    "id": "torhout",
+    "name": "Torhout",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.0618,
+    "lng": 3.1028
+  },
+  {
+    "id": "tielt",
+    "name": "Tielt",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.9991,
+    "lng": 3.3233
+  },
+  {
+    "id": "diksmuide",
+    "name": "Diksmuide",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.0335,
+    "lng": 2.8647
+  },
+  {
+    "id": "poperinge",
+    "name": "Poperinge",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.8557,
+    "lng": 2.7263
+  },
+  {
+    "id": "veurne",
+    "name": "Veurne",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "aliases": [
+      "Furnes"
+    ],
+    "lat": 51.0707,
+    "lng": 2.6648
+  },
+  {
+    "id": "nieuwpoort",
+    "name": "Nieuwpoort",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.1272,
+    "lng": 2.7471
+  },
+  {
+    "id": "knokke-heist",
+    "name": "Knokke-Heist",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.3552,
+    "lng": 3.2998
+  },
+  {
+    "id": "blankenberge",
+    "name": "Blankenberge",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.3075,
+    "lng": 3.1328
+  },
+  {
+    "id": "de-haan",
+    "name": "De Haan",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.2686,
+    "lng": 3.0342
+  },
+  {
+    "id": "bredene",
+    "name": "Bredene",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.2391,
+    "lng": 2.9749
+  },
+  {
+    "id": "middelkerke",
+    "name": "Middelkerke",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.1846,
+    "lng": 2.8168
+  },
+  {
+    "id": "de-panne",
+    "name": "De Panne",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.0702,
+    "lng": 2.5901
+  },
+  {
+    "id": "koksijde",
+    "name": "Koksijde",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.093,
+    "lng": 2.6549
+  },
+  {
+    "id": "lo-reninge",
+    "name": "Lo-Reninge",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.0,
+    "lng": 2.75
+  },
+  {
+    "id": "houthulst",
+    "name": "Houthulst",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.9746,
+    "lng": 2.9461
+  },
+  {
+    "id": "langemark-poelkapelle",
+    "name": "Langemark-Poelkapelle",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.9222,
+    "lng": 2.9221
+  },
+  {
+    "id": "zonnebeke",
+    "name": "Zonnebeke",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.8718,
+    "lng": 2.9858
+  },
+  {
+    "id": "moorslede",
+    "name": "Moorslede",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.8816,
+    "lng": 3.0727
+  },
+  {
+    "id": "ledegem",
+    "name": "Ledegem",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.8557,
+    "lng": 3.1194
+  },
+  {
+    "id": "izegem",
+    "name": "Izegem",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.9145,
+    "lng": 3.2131
+  },
+  {
+    "id": "ingelmunster",
+    "name": "Ingelmunster",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.9201,
+    "lng": 3.2632
+  },
+  {
+    "id": "ardooie",
+    "name": "Ardooie",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.971,
+    "lng": 3.2007
+  },
+  {
+    "id": "pittem",
+    "name": "Pittem",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.0131,
+    "lng": 3.2635
+  },
+  {
+    "id": "ruiselede",
+    "name": "Ruiselede",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.0541,
+    "lng": 3.3929
+  },
+  {
+    "id": "wingene",
+    "name": "Wingene",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.0578,
+    "lng": 3.2819
+  },
+  {
+    "id": "zwevezele",
+    "name": "Zwevezele",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.0231,
+    "lng": 3.2462
+  },
+  {
+    "id": "lichtervelde",
+    "name": "Lichtervelde",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.0285,
+    "lng": 3.139
+  },
+  {
+    "id": "staden",
+    "name": "Staden",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.9732,
+    "lng": 3.0098
+  },
+  {
+    "id": "kortemark",
+    "name": "Kortemark",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.0098,
+    "lng": 2.9949
+  },
+  {
+    "id": "hooglede",
+    "name": "Hooglede",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.9818,
+    "lng": 3.0829
+  },
+  {
+    "id": "gits",
+    "name": "Gits",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.9632,
+    "lng": 3.0891
+  },
+  {
+    "id": "wielsbeke",
+    "name": "Wielsbeke",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.9228,
+    "lng": 3.364
+  },
+  {
+    "id": "deerlijk",
+    "name": "Deerlijk",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.8559,
+    "lng": 3.3628
+  },
+  {
+    "id": "zwevegem",
+    "name": "Zwevegem",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.8107,
+    "lng": 3.3371
+  },
+  {
+    "id": "anzegem",
+    "name": "Anzegem",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.8324,
+    "lng": 3.47
+  },
+  {
+    "id": "avelgem",
+    "name": "Avelgem",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.776,
+    "lng": 3.4395
+  },
+  {
+    "id": "spiere-helkijn",
+    "name": "Spiere-Helkijn",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.7272,
+    "lng": 3.3783
+  },
+  {
+    "id": "wevelgem",
+    "name": "Wevelgem",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.8097,
+    "lng": 3.1817
+  },
+  {
+    "id": "wervik",
+    "name": "Wervik",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.7783,
+    "lng": 3.0421
+  },
+  {
+    "id": "heuvelland",
+    "name": "Heuvelland",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 50.7733,
+    "lng": 2.7498
+  },
+  {
+    "id": "messines",
+    "name": "Mesen",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "aliases": [
+      "Messines"
+    ],
+    "lat": 50.7643,
+    "lng": 2.8965
+  },
+  {
+    "id": "zedelgem",
+    "name": "Zedelgem",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.1473,
+    "lng": 3.1401
+  },
+  {
+    "id": "jabbeke",
+    "name": "Jabbeke",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.1842,
+    "lng": 3.0884
+  },
+  {
+    "id": "oudenburg",
+    "name": "Oudenburg",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.1822,
+    "lng": 3.0101
+  },
+  {
+    "id": "gistel",
+    "name": "Gistel",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.1549,
+    "lng": 2.9756
+  },
+  {
+    "id": "ichtegem",
+    "name": "Ichtegem",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.0944,
+    "lng": 3.0016
+  },
+  {
+    "id": "koekelare",
+    "name": "Koekelare",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.0825,
+    "lng": 2.9753
+  },
+  {
+    "id": "beernem",
+    "name": "Beernem",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.1396,
+    "lng": 3.3267
+  },
+  {
+    "id": "oostkamp",
+    "name": "Oostkamp",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.135,
+    "lng": 3.2296
+  },
+  {
+    "id": "damme",
+    "name": "Damme",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.248,
+    "lng": 3.2897
+  },
+  {
+    "id": "zuienkerke",
+    "name": "Zuienkerke",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.2391,
+    "lng": 3.1474
+  },
+  {
+    "id": "bruges-land",
+    "name": "Bruges",
+    "province": "West-Vlaanderen",
+    "region": "Vlaanderen",
+    "lat": 51.2093,
+    "lng": 3.2247
+  },
+  {
+    "id": "leuven",
+    "name": "Leuven",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.8798,
+    "lng": 4.7005
+  },
+  {
+    "id": "vilvoorde",
+    "name": "Vilvoorde",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "aliases": [
+      "Vilvorde"
+    ],
+    "lat": 50.9291,
+    "lng": 4.4263
+  },
+  {
+    "id": "halle",
+    "name": "Halle",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.7353,
+    "lng": 4.228
+  },
+  {
+    "id": "tienen",
+    "name": "Tienen",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "aliases": [
+      "Tirlemont"
+    ],
+    "lat": 50.8048,
+    "lng": 4.9424
+  },
+  {
+    "id": "aarschot",
+    "name": "Aarschot",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.9847,
+    "lng": 4.8288
+  },
+  {
+    "id": "diest",
+    "name": "Diest",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.9893,
+    "lng": 5.058
+  },
+  {
+    "id": "haacht",
+    "name": "Haacht",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.9737,
+    "lng": 4.632
+  },
+  {
+    "id": "rotselaar",
+    "name": "Rotselaar",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.9557,
+    "lng": 4.7137
+  },
+  {
+    "id": "boortmeerbeek",
+    "name": "Boortmeerbeek",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.9853,
+    "lng": 4.574
+  },
+  {
+    "id": "keerbergen",
+    "name": "Keerbergen",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 51.0127,
+    "lng": 4.6282
+  },
+  {
+    "id": "tremelo",
+    "name": "Tremelo",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.9973,
+    "lng": 4.7013
+  },
+  {
+    "id": "begijnendijk",
+    "name": "Begijnendijk",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 51.0266,
+    "lng": 4.7763
+  },
+  {
+    "id": "betekom",
+    "name": "Betekom",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 51.0051,
+    "lng": 4.805
+  },
+  {
+    "id": "lubbeek",
+    "name": "Lubbeek",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.8809,
+    "lng": 4.8179
+  },
+  {
+    "id": "boutersem",
+    "name": "Boutersem",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.839,
+    "lng": 4.8596
+  },
+  {
+    "id": "glabbeek",
+    "name": "Glabbeek",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.876,
+    "lng": 4.9658
+  },
+  {
+    "id": "kortenaken",
+    "name": "Kortenaken",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.9166,
+    "lng": 5.0302
+  },
+  {
+    "id": "bekkevoort",
+    "name": "Bekkevoort",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.9218,
+    "lng": 4.9632
+  },
+  {
+    "id": "tielt-winge",
+    "name": "Tielt-Winge",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.9618,
+    "lng": 4.8901
+  },
+  {
+    "id": "landen",
+    "name": "Landen",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.75,
+    "lng": 5.0833
+  },
+  {
+    "id": "zoutleeuw",
+    "name": "Zoutleeuw",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "aliases": [
+      "Léau"
+    ],
+    "lat": 50.8314,
+    "lng": 5.1003
+  },
+  {
+    "id": "geetbets",
+    "name": "Geetbets",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.8627,
+    "lng": 5.0394
+  },
+  {
+    "id": "hoegaarden",
+    "name": "Hoegaarden",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.7742,
+    "lng": 4.8731
+  },
+  {
+    "id": "linter",
+    "name": "Linter",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.787,
+    "lng": 5.0098
+  },
+  {
+    "id": "zaventem",
+    "name": "Zaventem",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.8867,
+    "lng": 4.4716
+  },
+  {
+    "id": "machelen",
+    "name": "Machelen",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.9182,
+    "lng": 4.4438
+  },
+  {
+    "id": "steenokkerzeel",
+    "name": "Steenokkerzeel",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.9165,
+    "lng": 4.5117
+  },
+  {
+    "id": "kampenhout",
+    "name": "Kampenhout",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.9539,
+    "lng": 4.5545
+  },
+  {
+    "id": "zemst",
+    "name": "Zemst",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 51.0,
+    "lng": 4.5
+  },
+  {
+    "id": "kapelle-op-den-bos",
+    "name": "Kapelle-op-den-Bos",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 51.0,
+    "lng": 4.357
+  },
+  {
+    "id": "londerzeel",
+    "name": "Londerzeel",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 51.001,
+    "lng": 4.3093
+  },
+  {
+    "id": "meise",
+    "name": "Meise",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.9513,
+    "lng": 4.3261
+  },
+  {
+    "id": "grimbergen",
+    "name": "Grimbergen",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.9332,
+    "lng": 4.372
+  },
+  {
+    "id": "wemmel",
+    "name": "Wemmel",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.8999,
+    "lng": 4.3153
+  },
+  {
+    "id": "asse",
+    "name": "Asse",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.9057,
+    "lng": 4.203
+  },
+  {
+    "id": "opwijk",
+    "name": "Opwijk",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.9763,
+    "lng": 4.1846
+  },
+  {
+    "id": "merchtem",
+    "name": "Merchtem",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.963,
+    "lng": 4.2357
+  },
+  {
+    "id": "roosdaal",
+    "name": "Roosdaal",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.8645,
+    "lng": 4.0823
+  },
+  {
+    "id": "ternat",
+    "name": "Ternat",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.8633,
+    "lng": 4.1626
+  },
+  {
+    "id": "lennik",
+    "name": "Lennik",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.8264,
+    "lng": 4.152
+  },
+  {
+    "id": "sint-pieters-leeuw",
+    "name": "Sint-Pieters-Leeuw",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.7795,
+    "lng": 4.2483
+  },
+  {
+    "id": "beersel",
+    "name": "Beersel",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.7665,
+    "lng": 4.2958
+  },
+  {
+    "id": "drogenbos",
+    "name": "Drogenbos",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.7828,
+    "lng": 4.3125
+  },
+  {
+    "id": "linkebeek",
+    "name": "Linkebeek",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.7664,
+    "lng": 4.3264
+  },
+  {
+    "id": "rhode-sint-genese",
+    "name": "Rhode-Saint-Genèse",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "aliases": [
+      "Sint-Genesius-Rode"
+    ],
+    "lat": 50.7412,
+    "lng": 4.3617
+  },
+  {
+    "id": "overijse",
+    "name": "Overijse",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.7731,
+    "lng": 4.5337
+  },
+  {
+    "id": "tervuren",
+    "name": "Tervuren",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.8224,
+    "lng": 4.5254
+  },
+  {
+    "id": "hoeilaart",
+    "name": "Hoeilaart",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.7683,
+    "lng": 4.4706
+  },
+  {
+    "id": "huldenberg",
+    "name": "Huldenberg",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.7405,
+    "lng": 4.573
+  },
+  {
+    "id": "ottignies",
+    "name": "Ottignies-Louvain-la-Neuve",
+    "province": "Brabant Wallon",
+    "region": "Wallonië",
+    "lat": 50.6696,
+    "lng": 4.568
+  },
+  {
+    "id": "bertem",
+    "name": "Bertem",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.8497,
+    "lng": 4.6408
+  },
+  {
+    "id": "herent",
+    "name": "Herent",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.9118,
+    "lng": 4.6888
+  },
+  {
+    "id": "kortenberg",
+    "name": "Kortenberg",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.8866,
+    "lng": 4.5496
+  },
+  {
+    "id": "wezembeek-oppem",
+    "name": "Wezembeek-Oppem",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.8526,
+    "lng": 4.486
+  },
+  {
+    "id": "kraainem",
+    "name": "Kraainem",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.8608,
+    "lng": 4.4584
+  },
+  {
+    "id": "sterrebeek",
+    "name": "Sterrebeek",
+    "province": "Vlaams-Brabant",
+    "region": "Vlaanderen",
+    "lat": 50.8716,
+    "lng": 4.5028
+  },
+  {
+    "id": "hasselt",
+    "name": "Hasselt",
+    "province": "Limburg",
+    "region": "Vlaanderen",
+    "lat": 50.9307,
+    "lng": 5.3325
+  },
+  {
+    "id": "genk",
+    "name": "Genk",
+    "province": "Limburg",
+    "region": "Vlaanderen",
+    "lat": 50.965,
+    "lng": 5.5002
+  },
+  {
+    "id": "sint-truiden",
+    "name": "Sint-Truiden",
+    "province": "Limburg",
+    "region": "Vlaanderen",
+    "aliases": [
+      "Saint-Trond"
+    ],
+    "lat": 50.8183,
+    "lng": 5.187
+  },
+  {
+    "id": "tongeren",
+    "name": "Tongeren",
+    "province": "Limburg",
+    "region": "Vlaanderen",
+    "aliases": [
+      "Tongres"
+    ],
+    "lat": 50.7797,
+    "lng": 5.4644
+  },
+  {
+    "id": "maaseik",
+    "name": "Maaseik",
+    "province": "Limburg",
+    "region": "Vlaanderen",
+    "lat": 51.0987,
+    "lng": 5.7913
+  },
+  {
+    "id": "maasmechelen",
+    "name": "Maasmechelen",
+    "province": "Limburg",
+    "region": "Vlaanderen",
+    "lat": 50.9636,
+    "lng": 5.6983
+  },
+  {
+    "id": "lommel",
+    "name": "Lommel",
+    "province": "Limburg",
+    "region": "Vlaanderen",
+    "lat": 51.2286,
+    "lng": 5.313
+  },
+  {
+    "id": "beringen",
+    "name": "Beringen",
+    "province": "Limburg",
+    "region": "Vlaanderen",
+    "lat": 51.0495,
+    "lng": 5.2237
+  },
+  {
+    "id": "heusden-zolder",
+    "name": "Heusden-Zolder",
+    "province": "Limburg",
+    "region": "Vlaanderen",
+    "lat": 51.0474,
+    "lng": 5.2904
+  },
+  {
+    "id": "herk-de-stad",
+    "name": "Herk-de-Stad",
+    "province": "Limburg",
+    "region": "Vlaanderen",
+    "lat": 50.9374,
+    "lng": 5.1626
+  },
+  {
+    "id": "diepenbeek",
+    "name": "Diepenbeek",
+    "province": "Limburg",
+    "region": "Vlaanderen",
+    "lat": 50.9112,
+    "lng": 5.4168
+  },
+  {
+    "id": "zonhoven",
+    "name": "Zonhoven",
+    "province": "Limburg",
+    "region": "Vlaanderen",
+    "lat": 50.9879,
+    "lng": 5.3658
+  },
+  {
+    "id": "houthalen-helchteren",
+    "name": "Houthalen-Helchteren",
+    "province": "Limburg",
+    "region": "Vlaanderen",
+    "lat": 51.0279,
+    "lng": 5.3795
+  },
+  {
+    "id": "bree",
+    "name": "Bree",
+    "province": "Limburg",
+    "region": "Vlaanderen",
+    "lat": 51.1376,
+    "lng": 5.5984
+  },
+  {
+    "id": "peer",
+    "name": "Peer",
+    "province": "Limburg",
+    "region": "Vlaanderen",
+    "lat": 51.1345,
+    "lng": 5.4552
+  },
+  {
+    "id": "neerpelt",
+    "name": "Pelt",
+    "province": "Limburg",
+    "region": "Vlaanderen",
+    "lat": 51.2328,
+    "lng": 5.429
+  },
+  {
+    "id": "hamont-achel",
+    "name": "Hamont-Achel",
+    "province": "Limburg",
+    "region": "Vlaanderen",
+    "lat": 51.2535,
+    "lng": 5.5348
+  },
+  {
+    "id": "overpelt",
+    "name": "Overpelt",
+    "province": "Limburg",
+    "region": "Vlaanderen",
+    "lat": 51.2058,
+    "lng": 5.4167
+  },
+  {
+    "id": "leopoldsburg",
+    "name": "Leopoldsburg",
+    "province": "Limburg",
+    "region": "Vlaanderen",
+    "lat": 51.1183,
+    "lng": 5.26
+  },
+  {
+    "id": "ham",
+    "name": "Ham",
+    "province": "Limburg",
+    "region": "Vlaanderen",
+    "lat": 51.0952,
+    "lng": 5.1643
+  },
+  {
+    "id": "tessenderlo",
+    "name": "Tessenderlo",
+    "province": "Limburg",
+    "region": "Vlaanderen",
+    "lat": 51.0663,
+    "lng": 5.088
+  },
+  {
+    "id": "lummen",
+    "name": "Lummen",
+    "province": "Limburg",
+    "region": "Vlaanderen",
+    "lat": 51.0017,
+    "lng": 5.1823
+  },
+  {
+    "id": "zutendaal",
+    "name": "Zutendaal",
+    "province": "Limburg",
+    "region": "Vlaanderen",
+    "lat": 50.9345,
+    "lng": 5.5856
+  },
+  {
+    "id": "lanaken",
+    "name": "Lanaken",
+    "province": "Limburg",
+    "region": "Vlaanderen",
+    "lat": 50.8797,
+    "lng": 5.6383
+  },
+  {
+    "id": "dilsen-stokkem",
+    "name": "Dilsen-Stokkem",
+    "province": "Limburg",
+    "region": "Vlaanderen",
+    "lat": 51.0273,
+    "lng": 5.727
+  },
+  {
+    "id": "kinrooi",
+    "name": "Kinrooi",
+    "province": "Limburg",
+    "region": "Vlaanderen",
+    "lat": 51.152,
+    "lng": 5.7427
+  },
+  {
+    "id": "bilzen",
+    "name": "Bilzen",
+    "province": "Limburg",
+    "region": "Vlaanderen",
+    "lat": 50.8716,
+    "lng": 5.5185
+  },
+  {
+    "id": "as",
+    "name": "As",
+    "province": "Limburg",
+    "region": "Vlaanderen",
+    "lat": 51.0022,
+    "lng": 5.5953
+  },
+  {
+    "id": "opglabbeek",
+    "name": "Opglabbeek",
+    "province": "Limburg",
+    "region": "Vlaanderen",
+    "lat": 51.0479,
+    "lng": 5.5829
+  },
+  {
+    "id": "bocholt",
+    "name": "Bocholt",
+    "province": "Limburg",
+    "region": "Vlaanderen",
+    "lat": 51.1722,
+    "lng": 5.5813
+  },
+  {
+    "id": "alken",
+    "name": "Alken",
+    "province": "Limburg",
+    "region": "Vlaanderen",
+    "lat": 50.8621,
+    "lng": 5.3066
+  },
+  {
+    "id": "wellen",
+    "name": "Wellen",
+    "province": "Limburg",
+    "region": "Vlaanderen",
+    "lat": 50.8398,
+    "lng": 5.3476
+  },
+  {
+    "id": "borgloon",
+    "name": "Borgloon",
+    "province": "Limburg",
+    "region": "Vlaanderen",
+    "lat": 50.8026,
+    "lng": 5.3548
+  },
+  {
+    "id": "heers",
+    "name": "Heers",
+    "province": "Limburg",
+    "region": "Vlaanderen",
+    "lat": 50.757,
+    "lng": 5.2899
+  },
+  {
+    "id": "riemst",
+    "name": "Riemst",
+    "province": "Limburg",
+    "region": "Vlaanderen",
+    "lat": 50.8058,
+    "lng": 5.5968
+  },
+  {
+    "id": "hoeselt",
+    "name": "Hoeselt",
+    "province": "Limburg",
+    "region": "Vlaanderen",
+    "lat": 50.8376,
+    "lng": 5.4879
+  },
+  {
+    "id": "kortessem",
+    "name": "Kortessem",
+    "province": "Limburg",
+    "region": "Vlaanderen",
+    "lat": 50.88,
+    "lng": 5.3665
+  },
+  {
+    "id": "gingelom",
+    "name": "Gingelom",
+    "province": "Limburg",
+    "region": "Vlaanderen",
+    "lat": 50.7547,
+    "lng": 5.1456
+  },
+  {
+    "id": "nieuwerkerken",
+    "name": "Nieuwerkerken",
+    "province": "Limburg",
+    "region": "Vlaanderen",
+    "lat": 50.8738,
+    "lng": 5.1219
+  },
+  {
+    "id": "sint-truiden2",
+    "name": "Sint-Truiden",
+    "province": "Limburg",
+    "region": "Vlaanderen",
+    "lat": 50.8183,
+    "lng": 5.187
+  },
+  {
+    "id": "brussel",
+    "name": "Brussel",
+    "province": "Brussels Hoofdstedelijk Gewest",
+    "region": "Brussels Hoofdstedelijk Gewest",
+    "aliases": [
+      "Bruxelles",
+      "Brussels",
+      "Ville de Bruxelles"
+    ],
+    "lat": 50.8503,
+    "lng": 4.3517
+  },
+  {
+    "id": "schaarbeek",
+    "name": "Schaarbeek",
+    "province": "Brussels Hoofdstedelijk Gewest",
+    "region": "Brussels Hoofdstedelijk Gewest",
+    "aliases": [
+      "Schaerbeek"
+    ],
+    "lat": 50.8676,
+    "lng": 4.3774
+  },
+  {
+    "id": "molenbeek",
+    "name": "Sint-Jans-Molenbeek",
+    "province": "Brussels Hoofdstedelijk Gewest",
+    "region": "Brussels Hoofdstedelijk Gewest",
+    "aliases": [
+      "Molenbeek-Saint-Jean"
+    ],
+    "lat": 50.854,
+    "lng": 4.322
+  },
+  {
+    "id": "anderlecht",
+    "name": "Anderlecht",
+    "province": "Brussels Hoofdstedelijk Gewest",
+    "region": "Brussels Hoofdstedelijk Gewest",
+    "lat": 50.838,
+    "lng": 4.3085
+  },
+  {
+    "id": "elsene",
+    "name": "Elsene",
+    "province": "Brussels Hoofdstedelijk Gewest",
+    "region": "Brussels Hoofdstedelijk Gewest",
+    "aliases": [
+      "Ixelles"
+    ],
+    "lat": 50.8281,
+    "lng": 4.3717
+  },
+  {
+    "id": "etterbeek",
+    "name": "Etterbeek",
+    "province": "Brussels Hoofdstedelijk Gewest",
+    "region": "Brussels Hoofdstedelijk Gewest",
+    "lat": 50.8385,
+    "lng": 4.3931
+  },
+  {
+    "id": "ukkel",
+    "name": "Ukkel",
+    "province": "Brussels Hoofdstedelijk Gewest",
+    "region": "Brussels Hoofdstedelijk Gewest",
+    "aliases": [
+      "Uccle"
+    ],
+    "lat": 50.8003,
+    "lng": 4.3479
+  },
+  {
+    "id": "sint-gillis",
+    "name": "Sint-Gillis",
+    "province": "Brussels Hoofdstedelijk Gewest",
+    "region": "Brussels Hoofdstedelijk Gewest",
+    "aliases": [
+      "Saint-Gilles"
+    ],
+    "lat": 50.8265,
+    "lng": 4.3425
+  },
+  {
+    "id": "sint-joost",
+    "name": "Sint-Joost-ten-Node",
+    "province": "Brussels Hoofdstedelijk Gewest",
+    "region": "Brussels Hoofdstedelijk Gewest",
+    "aliases": [
+      "Saint-Josse-ten-Noode"
+    ],
+    "lat": 50.8548,
+    "lng": 4.3666
+  },
+  {
+    "id": "evere",
+    "name": "Evere",
+    "province": "Brussels Hoofdstedelijk Gewest",
+    "region": "Brussels Hoofdstedelijk Gewest",
+    "lat": 50.8763,
+    "lng": 4.4022
+  },
+  {
+    "id": "vorst",
+    "name": "Vorst",
+    "province": "Brussels Hoofdstedelijk Gewest",
+    "region": "Brussels Hoofdstedelijk Gewest",
+    "aliases": [
+      "Forest"
+    ],
+    "lat": 50.8137,
+    "lng": 4.3283
+  },
+  {
+    "id": "jette",
+    "name": "Jette",
+    "province": "Brussels Hoofdstedelijk Gewest",
+    "region": "Brussels Hoofdstedelijk Gewest",
+    "lat": 50.8791,
+    "lng": 4.3259
+  },
+  {
+    "id": "ganshoren",
+    "name": "Ganshoren",
+    "province": "Brussels Hoofdstedelijk Gewest",
+    "region": "Brussels Hoofdstedelijk Gewest",
+    "lat": 50.8787,
+    "lng": 4.3108
+  },
+  {
+    "id": "koekelberg",
+    "name": "Koekelberg",
+    "province": "Brussels Hoofdstedelijk Gewest",
+    "region": "Brussels Hoofdstedelijk Gewest",
+    "lat": 50.8661,
+    "lng": 4.3249
+  },
+  {
+    "id": "sint-agatha-berchem",
+    "name": "Sint-Agatha-Berchem",
+    "province": "Brussels Hoofdstedelijk Gewest",
+    "region": "Brussels Hoofdstedelijk Gewest",
+    "aliases": [
+      "Berchem-Sainte-Agathe"
+    ],
+    "lat": 50.8676,
+    "lng": 4.3028
+  },
+  {
+    "id": "laken",
+    "name": "Laken",
+    "province": "Brussels Hoofdstedelijk Gewest",
+    "region": "Brussels Hoofdstedelijk Gewest",
+    "aliases": [
+      "Laeken"
+    ],
+    "lat": 50.8836,
+    "lng": 4.3453
+  },
+  {
+    "id": "neder-over-heembeek",
+    "name": "Neder-Over-Heembeek",
+    "province": "Brussels Hoofdstedelijk Gewest",
+    "region": "Brussels Hoofdstedelijk Gewest",
+    "lat": 50.8954,
+    "lng": 4.3626
+  },
+  {
+    "id": "watermaal-bosvoorde",
+    "name": "Watermaal-Bosvoorde",
+    "province": "Brussels Hoofdstedelijk Gewest",
+    "region": "Brussels Hoofdstedelijk Gewest",
+    "aliases": [
+      "Watermael-Boitsfort"
+    ],
+    "lat": 50.799,
+    "lng": 4.4113
+  },
+  {
+    "id": "oudergem",
+    "name": "Oudergem",
+    "province": "Brussels Hoofdstedelijk Gewest",
+    "region": "Brussels Hoofdstedelijk Gewest",
+    "aliases": [
+      "Auderghem"
+    ],
+    "lat": 50.8123,
+    "lng": 4.4325
+  },
+  {
+    "id": "sint-pieters-woluwe",
+    "name": "Sint-Pieters-Woluwe",
+    "province": "Brussels Hoofdstedelijk Gewest",
+    "region": "Brussels Hoofdstedelijk Gewest",
+    "aliases": [
+      "Woluwe-Saint-Pierre"
+    ],
+    "lat": 50.8298,
+    "lng": 4.4399
+  },
+  {
+    "id": "sint-lambrechts-woluwe",
+    "name": "Sint-Lambrechts-Woluwe",
+    "province": "Brussels Hoofdstedelijk Gewest",
+    "region": "Brussels Hoofdstedelijk Gewest",
+    "aliases": [
+      "Woluwe-Saint-Lambert"
+    ],
+    "lat": 50.8489,
+    "lng": 4.4258
+  },
+  {
+    "id": "charleroi",
+    "name": "Charleroi",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "lat": 50.4108,
+    "lng": 4.4446
+  },
+  {
+    "id": "mons",
+    "name": "Mons",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "aliases": [
+      "Bergen"
+    ],
+    "lat": 50.4542,
+    "lng": 3.9523
+  },
+  {
+    "id": "tournai",
+    "name": "Tournai",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "aliases": [
+      "Doornik"
+    ],
+    "lat": 50.6064,
+    "lng": 3.3878
+  },
+  {
+    "id": "la-louviere",
+    "name": "La Louvière",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "lat": 50.4785,
+    "lng": 4.1885
+  },
+  {
+    "id": "mouscron",
+    "name": "Mouscron",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "aliases": [
+      "Moeskroen"
+    ],
+    "lat": 50.7456,
+    "lng": 3.2066
+  },
+  {
+    "id": "tubize",
+    "name": "Tubize",
+    "province": "Brabant Wallon",
+    "region": "Wallonië",
+    "aliases": [
+      "Tubeke"
+    ],
+    "lat": 50.6891,
+    "lng": 4.203
+  },
+  {
+    "id": "soignies",
+    "name": "Soignies",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "aliases": [
+      "Zinnik"
+    ],
+    "lat": 50.5763,
+    "lng": 4.07
+  },
+  {
+    "id": "braine-le-comte",
+    "name": "Braine-le-Comte",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "lat": 50.6075,
+    "lng": 4.1345
+  },
+  {
+    "id": "enghien",
+    "name": "Enghien",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "aliases": [
+      "Edingen"
+    ],
+    "lat": 50.6972,
+    "lng": 4.0326
+  },
+  {
+    "id": "ath",
+    "name": "Ath",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "aliases": [
+      "Aat"
+    ],
+    "lat": 50.6311,
+    "lng": 3.7785
+  },
+  {
+    "id": "lessines",
+    "name": "Lessines",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "aliases": [
+      "Lessen"
+    ],
+    "lat": 50.7262,
+    "lng": 3.8307
+  },
+  {
+    "id": "peruwelz",
+    "name": "Péruwelz",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "lat": 50.5095,
+    "lng": 3.5926
+  },
+  {
+    "id": "antoing",
+    "name": "Antoing",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "lat": 50.572,
+    "lng": 3.4471
+  },
+  {
+    "id": "leuze-en-hainaut",
+    "name": "Leuze-en-Hainaut",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "lat": 50.5962,
+    "lng": 3.6192
+  },
+  {
+    "id": "beloeil",
+    "name": "Beloeil",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "lat": 50.5525,
+    "lng": 3.7305
+  },
+  {
+    "id": "lens",
+    "name": "Lens",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "lat": 50.5628,
+    "lng": 3.9178
+  },
+  {
+    "id": "baudour",
+    "name": "Saint-Ghislain",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "lat": 50.453,
+    "lng": 3.819
+  },
+  {
+    "id": "quaregnon",
+    "name": "Quaregnon",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "lat": 50.4416,
+    "lng": 3.8692
+  },
+  {
+    "id": "jurbise",
+    "name": "Jurbise",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "lat": 50.5316,
+    "lng": 3.9103
+  },
+  {
+    "id": "colfontaine",
+    "name": "Colfontaine",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "lat": 50.4246,
+    "lng": 3.8421
+  },
+  {
+    "id": "frameries",
+    "name": "Frameries",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "lat": 50.4087,
+    "lng": 3.901
+  },
+  {
+    "id": "quevy",
+    "name": "Quévy",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "lat": 50.3629,
+    "lng": 3.9761
+  },
+  {
+    "id": "binche",
+    "name": "Binche",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "lat": 50.4106,
+    "lng": 4.1642
+  },
+  {
+    "id": "estinnes",
+    "name": "Estinnes",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "lat": 50.3993,
+    "lng": 4.1243
+  },
+  {
+    "id": "morlanwelz",
+    "name": "Morlanwelz",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "lat": 50.4605,
+    "lng": 4.2399
+  },
+  {
+    "id": "manage",
+    "name": "Manage",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "lat": 50.4991,
+    "lng": 4.2369
+  },
+  {
+    "id": "pont-a-celles",
+    "name": "Pont-à-Celles",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "lat": 50.5079,
+    "lng": 4.3536
+  },
+  {
+    "id": "les-bons-villers",
+    "name": "Les Bons Villers",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "lat": 50.4649,
+    "lng": 4.4374
+  },
+  {
+    "id": "fontaine-l-eveque",
+    "name": "Fontaine-l'Évêque",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "lat": 50.4124,
+    "lng": 4.3325
+  },
+  {
+    "id": "anderlues",
+    "name": "Anderlues",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "lat": 50.4068,
+    "lng": 4.2632
+  },
+  {
+    "id": "chapelle-lez-herlaimont",
+    "name": "Chapelle-lez-Herlaimont",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "lat": 50.4649,
+    "lng": 4.2764
+  },
+  {
+    "id": "fleurus",
+    "name": "Fleurus",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "lat": 50.478,
+    "lng": 4.5484
+  },
+  {
+    "id": "gosselies",
+    "name": "Gosselies",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "lat": 50.4676,
+    "lng": 4.4321
+  },
+  {
+    "id": "gerpinnes",
+    "name": "Gerpinnes",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "lat": 50.3404,
+    "lng": 4.5122
+  },
+  {
+    "id": "ham-sur-heure",
+    "name": "Ham-sur-Heure-Nalinnes",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "lat": 50.3343,
+    "lng": 4.3925
+  },
+  {
+    "id": "lobbes",
+    "name": "Lobbes",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "lat": 50.3513,
+    "lng": 4.27
+  },
+  {
+    "id": "thuin",
+    "name": "Thuin",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "lat": 50.3398,
+    "lng": 4.2858
+  },
+  {
+    "id": "chimay",
+    "name": "Chimay",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "lat": 50.0474,
+    "lng": 4.3131
+  },
+  {
+    "id": "couvin",
+    "name": "Couvin",
+    "province": "Namur",
+    "region": "Wallonië",
+    "lat": 50.0495,
+    "lng": 4.4983
+  },
+  {
+    "id": "beaumont",
+    "name": "Beaumont",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "lat": 50.2341,
+    "lng": 4.2367
+  },
+  {
+    "id": "froidchapelle",
+    "name": "Froidchapelle",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "lat": 50.1574,
+    "lng": 4.329
+  },
+  {
+    "id": "sivry-rance",
+    "name": "Sivry-Rance",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "lat": 50.17,
+    "lng": 4.2453
+  },
+  {
+    "id": "merbes-le-chateau",
+    "name": "Merbes-le-Château",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "lat": 50.3196,
+    "lng": 4.1533
+  },
+  {
+    "id": "erquelinnes",
+    "name": "Erquelinnes",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "lat": 50.3074,
+    "lng": 4.133
+  },
+  {
+    "id": "dour",
+    "name": "Dour",
+    "province": "Hainaut",
+    "region": "Wallonië",
+    "lat": 50.3951,
+    "lng": 3.7755
+  },
+  {
+    "id": "liege",
+    "name": "Liège",
+    "province": "Liège",
+    "region": "Wallonië",
+    "aliases": [
+      "Luik"
+    ],
+    "lat": 50.6326,
+    "lng": 5.5797
+  },
+  {
+    "id": "seraing",
+    "name": "Seraing",
+    "province": "Liège",
+    "region": "Wallonië",
+    "lat": 50.5936,
+    "lng": 5.4987
+  },
+  {
+    "id": "herstal",
+    "name": "Herstal",
+    "province": "Liège",
+    "region": "Wallonië",
+    "lat": 50.6722,
+    "lng": 5.6285
+  },
+  {
+    "id": "verviers",
+    "name": "Verviers",
+    "province": "Liège",
+    "region": "Wallonië",
+    "lat": 50.59,
+    "lng": 5.866
+  },
+  {
+    "id": "saint-nicolas",
+    "name": "Saint-Nicolas",
+    "province": "Liège",
+    "region": "Wallonië",
+    "lat": 50.6262,
+    "lng": 5.5183
+  },
+  {
+    "id": "ans",
+    "name": "Ans",
+    "province": "Liège",
+    "region": "Wallonië",
+    "lat": 50.6674,
+    "lng": 5.5318
+  },
+  {
+    "id": "grace-hollogne",
+    "name": "Grâce-Hollogne",
+    "province": "Liège",
+    "region": "Wallonië",
+    "lat": 50.6256,
+    "lng": 5.4756
+  },
+  {
+    "id": "fleron",
+    "name": "Fléron",
+    "province": "Liège",
+    "region": "Wallonië",
+    "lat": 50.6127,
+    "lng": 5.6863
+  },
+  {
+    "id": "eupen",
+    "name": "Eupen",
+    "province": "Liège",
+    "region": "Wallonië",
+    "lat": 50.6306,
+    "lng": 6.0329
+  },
+  {
+    "id": "spa",
+    "name": "Spa",
+    "province": "Liège",
+    "region": "Wallonië",
+    "lat": 50.4924,
+    "lng": 5.8657
+  },
+  {
+    "id": "huy",
+    "name": "Huy",
+    "province": "Liège",
+    "region": "Wallonië",
+    "aliases": [
+      "Hoei"
+    ],
+    "lat": 50.5196,
+    "lng": 5.2367
+  },
+  {
+    "id": "waremme",
+    "name": "Waremme",
+    "province": "Liège",
+    "region": "Wallonië",
+    "aliases": [
+      "Borgworm"
+    ],
+    "lat": 50.6966,
+    "lng": 5.2553
+  },
+  {
+    "id": "visé",
+    "name": "Visé",
+    "province": "Liège",
+    "region": "Wallonië",
+    "lat": 50.7378,
+    "lng": 5.7015
+  },
+  {
+    "id": "welkenraedt",
+    "name": "Welkenraedt",
+    "province": "Liège",
+    "region": "Wallonië",
+    "lat": 50.6614,
+    "lng": 5.9769
+  },
+  {
+    "id": "saint-vith",
+    "name": "Sankt Vith",
+    "province": "Liège",
+    "region": "Wallonië",
+    "aliases": [
+      "Saint-Vith"
+    ],
+    "lat": 50.2797,
+    "lng": 6.135
+  },
+  {
+    "id": "malmedy",
+    "name": "Malmedy",
+    "province": "Liège",
+    "region": "Wallonië",
+    "lat": 50.4262,
+    "lng": 6.0289
+  },
+  {
+    "id": "stavelot",
+    "name": "Stavelot",
+    "province": "Liège",
+    "region": "Wallonië",
+    "lat": 50.393,
+    "lng": 5.9313
+  },
+  {
+    "id": "vielsalm",
+    "name": "Vielsalm",
+    "province": "Liège",
+    "region": "Wallonië",
+    "lat": 50.2876,
+    "lng": 5.9153
+  },
+  {
+    "id": "durbuy",
+    "name": "Durbuy",
+    "province": "Luxembourg",
+    "region": "Wallonië",
+    "lat": 50.351,
+    "lng": 5.4549
+  },
+  {
+    "id": "lierneux",
+    "name": "Lierneux",
+    "province": "Liège",
+    "region": "Wallonië",
+    "lat": 50.2953,
+    "lng": 5.7988
+  },
+  {
+    "id": "trois-ponts",
+    "name": "Trois-Ponts",
+    "province": "Liège",
+    "region": "Wallonië",
+    "lat": 50.3627,
+    "lng": 5.8697
+  },
+  {
+    "id": "stoumont",
+    "name": "Stoumont",
+    "province": "Liège",
+    "region": "Wallonië",
+    "lat": 50.4029,
+    "lng": 5.7839
+  },
+  {
+    "id": "aywaille",
+    "name": "Aywaille",
+    "province": "Liège",
+    "region": "Wallonië",
+    "lat": 50.4725,
+    "lng": 5.6683
+  },
+  {
+    "id": "sprimont",
+    "name": "Sprimont",
+    "province": "Liège",
+    "region": "Wallonië",
+    "lat": 50.5039,
+    "lng": 5.6652
+  },
+  {
+    "id": "beyne-heusay",
+    "name": "Beyne-Heusay",
+    "province": "Liège",
+    "region": "Wallonië",
+    "lat": 50.6054,
+    "lng": 5.6735
+  },
+  {
+    "id": "soumagne",
+    "name": "Soumagne",
+    "province": "Liège",
+    "region": "Wallonië",
+    "lat": 50.6118,
+    "lng": 5.7358
+  },
+  {
+    "id": "herve",
+    "name": "Herve",
+    "province": "Liège",
+    "region": "Wallonië",
+    "lat": 50.6389,
+    "lng": 5.7966
+  },
+  {
+    "id": "limbourg",
+    "name": "Limbourg",
+    "province": "Liège",
+    "region": "Wallonië",
+    "lat": 50.6117,
+    "lng": 5.9418
+  },
+  {
+    "id": "la-calamine",
+    "name": "La Calamine",
+    "province": "Liège",
+    "region": "Wallonië",
+    "aliases": [
+      "Kelmis"
+    ],
+    "lat": 50.7001,
+    "lng": 6.0109
+  },
+  {
+    "id": "lontzen",
+    "name": "Lontzen",
+    "province": "Liège",
+    "region": "Wallonië",
+    "lat": 50.6671,
+    "lng": 6.0138
+  },
+  {
+    "id": "raeren",
+    "name": "Raeren",
+    "province": "Liège",
+    "region": "Wallonië",
+    "lat": 50.6576,
+    "lng": 6.1071
+  },
+  {
+    "id": "butgenbach",
+    "name": "Bütgenbach",
+    "province": "Liège",
+    "region": "Wallonië",
+    "lat": 50.4307,
+    "lng": 6.1928
+  },
+  {
+    "id": "burg-reuland",
+    "name": "Burg-Reuland",
+    "province": "Liège",
+    "region": "Wallonië",
+    "lat": 50.1963,
+    "lng": 6.1418
+  },
+  {
+    "id": "nandrin",
+    "name": "Nandrin",
+    "province": "Liège",
+    "region": "Wallonië",
+    "lat": 50.5336,
+    "lng": 5.4166
+  },
+  {
+    "id": "tinlot",
+    "name": "Tinlot",
+    "province": "Liège",
+    "region": "Wallonië",
+    "lat": 50.4846,
+    "lng": 5.5019
+  },
+  {
+    "id": "anthisnes",
+    "name": "Anthisnes",
+    "province": "Liège",
+    "region": "Wallonië",
+    "lat": 50.487,
+    "lng": 5.5157
+  },
+  {
+    "id": "ouffet",
+    "name": "Ouffet",
+    "province": "Liège",
+    "region": "Wallonië",
+    "lat": 50.4386,
+    "lng": 5.4697
+  },
+  {
+    "id": "ferriere",
+    "name": "Ferrières",
+    "province": "Liège",
+    "region": "Wallonië",
+    "lat": 50.4046,
+    "lng": 5.5894
+  },
+  {
+    "id": "manhay",
+    "name": "Manhay",
+    "province": "Liège",
+    "region": "Wallonië",
+    "lat": 50.2953,
+    "lng": 5.6894
+  },
+  {
+    "id": "namur",
+    "name": "Namur",
+    "province": "Namur",
+    "region": "Wallonië",
+    "aliases": [
+      "Namen"
+    ],
+    "lat": 50.4674,
+    "lng": 4.8718
+  },
+  {
+    "id": "andenne",
+    "name": "Andenne",
+    "province": "Namur",
+    "region": "Wallonië",
+    "lat": 50.4829,
+    "lng": 5.0968
+  },
+  {
+    "id": "gembloux",
+    "name": "Gembloux",
+    "province": "Namur",
+    "region": "Wallonië",
+    "lat": 50.5633,
+    "lng": 4.6986
+  },
+  {
+    "id": "dinant",
+    "name": "Dinant",
+    "province": "Namur",
+    "region": "Wallonië",
+    "lat": 50.2598,
+    "lng": 4.9124
+  },
+  {
+    "id": "ciney",
+    "name": "Ciney",
+    "province": "Namur",
+    "region": "Wallonië",
+    "lat": 50.2985,
+    "lng": 5.0979
+  },
+  {
+    "id": "philippeville",
+    "name": "Philippeville",
+    "province": "Namur",
+    "region": "Wallonië",
+    "lat": 50.1983,
+    "lng": 4.5477
+  },
+  {
+    "id": "rochefort",
+    "name": "Rochefort",
+    "province": "Namur",
+    "region": "Wallonië",
+    "lat": 50.1599,
+    "lng": 5.223
+  },
+  {
+    "id": "florennes",
+    "name": "Florennes",
+    "province": "Namur",
+    "region": "Wallonië",
+    "lat": 50.2468,
+    "lng": 4.596
+  },
+  {
+    "id": "mettet",
+    "name": "Mettet",
+    "province": "Namur",
+    "region": "Wallonië",
+    "lat": 50.3147,
+    "lng": 4.6728
+  },
+  {
+    "id": "fosses-la-ville",
+    "name": "Fosses-la-Ville",
+    "province": "Namur",
+    "region": "Wallonië",
+    "lat": 50.3927,
+    "lng": 4.6961
+  },
+  {
+    "id": "jemeppe-sur-sambre",
+    "name": "Jemeppe-sur-Sambre",
+    "province": "Namur",
+    "region": "Wallonië",
+    "lat": 50.4308,
+    "lng": 4.6719
+  },
+  {
+    "id": "floreffe",
+    "name": "Floreffe",
+    "province": "Namur",
+    "region": "Wallonië",
+    "lat": 50.4343,
+    "lng": 4.7682
+  },
+  {
+    "id": "profondeville",
+    "name": "Profondeville",
+    "province": "Namur",
+    "region": "Wallonië",
+    "lat": 50.3798,
+    "lng": 4.8662
+  },
+  {
+    "id": "hastiere",
+    "name": "Hastière",
+    "province": "Namur",
+    "region": "Wallonië",
+    "lat": 50.2083,
+    "lng": 4.8253
+  },
+  {
+    "id": "anhee",
+    "name": "Anhée",
+    "province": "Namur",
+    "region": "Wallonië",
+    "lat": 50.3025,
+    "lng": 4.8847
+  },
+  {
+    "id": "yvoir",
+    "name": "Yvoir",
+    "province": "Namur",
+    "region": "Wallonië",
+    "lat": 50.3217,
+    "lng": 4.8844
+  },
+  {
+    "id": "assesse",
+    "name": "Assesse",
+    "province": "Namur",
+    "region": "Wallonië",
+    "lat": 50.3703,
+    "lng": 5.0166
+  },
+  {
+    "id": "gesves",
+    "name": "Gesves",
+    "province": "Namur",
+    "region": "Wallonië",
+    "lat": 50.3943,
+    "lng": 5.0574
+  },
+  {
+    "id": "ohey",
+    "name": "Ohey",
+    "province": "Namur",
+    "region": "Wallonië",
+    "lat": 50.4218,
+    "lng": 5.1182
+  },
+  {
+    "id": "namur2",
+    "name": "Eghezée",
+    "province": "Namur",
+    "region": "Wallonië",
+    "lat": 50.5878,
+    "lng": 4.928
+  },
+  {
+    "id": "sombreffe",
+    "name": "Sombreffe",
+    "province": "Namur",
+    "region": "Wallonië",
+    "lat": 50.5301,
+    "lng": 4.6224
+  },
+  {
+    "id": "gerpinnes2",
+    "name": "Biesme",
+    "province": "Namur",
+    "region": "Wallonië",
+    "lat": 50.3581,
+    "lng": 4.5681
+  },
+  {
+    "id": "sambreville",
+    "name": "Sambreville",
+    "province": "Namur",
+    "region": "Wallonië",
+    "lat": 50.4371,
+    "lng": 4.6133
+  },
+  {
+    "id": "onhaye",
+    "name": "Onhaye",
+    "province": "Namur",
+    "region": "Wallonië",
+    "lat": 50.2478,
+    "lng": 4.8333
+  },
+  {
+    "id": "beauraing",
+    "name": "Beauraing",
+    "province": "Namur",
+    "region": "Wallonië",
+    "lat": 50.1101,
+    "lng": 4.9593
+  },
+  {
+    "id": "bievre",
+    "name": "Bièvre",
+    "province": "Namur",
+    "region": "Wallonië",
+    "lat": 49.9558,
+    "lng": 4.8641
+  },
+  {
+    "id": "gedinne",
+    "name": "Gedinne",
+    "province": "Namur",
+    "region": "Wallonië",
+    "lat": 49.978,
+    "lng": 4.9414
+  },
+  {
+    "id": "vresse-sur-semois",
+    "name": "Vresse-sur-Semois",
+    "province": "Namur",
+    "region": "Wallonië",
+    "lat": 49.8693,
+    "lng": 4.9344
+  },
+  {
+    "id": "doische",
+    "name": "Doische",
+    "province": "Namur",
+    "region": "Wallonië",
+    "lat": 50.1308,
+    "lng": 4.6316
+  },
+  {
+    "id": "viroinval",
+    "name": "Viroinval",
+    "province": "Namur",
+    "region": "Wallonië",
+    "lat": 50.0731,
+    "lng": 4.5593
+  },
+  {
+    "id": "walcourt",
+    "name": "Walcourt",
+    "province": "Namur",
+    "region": "Wallonië",
+    "lat": 50.253,
+    "lng": 4.4333
+  },
+  {
+    "id": "cerfontaine",
+    "name": "Cerfontaine",
+    "province": "Namur",
+    "region": "Wallonië",
+    "lat": 50.184,
+    "lng": 4.3915
+  },
+  {
+    "id": "dave",
+    "name": "Wepion",
+    "province": "Namur",
+    "region": "Wallonië",
+    "lat": 50.4031,
+    "lng": 4.8693
+  },
+  {
+    "id": "arlon",
+    "name": "Arlon",
+    "province": "Luxembourg",
+    "region": "Wallonië",
+    "lat": 49.6836,
+    "lng": 5.8167
+  },
+  {
+    "id": "marche-en-famenne",
+    "name": "Marche-en-Famenne",
+    "province": "Luxembourg",
+    "region": "Wallonië",
+    "lat": 50.2265,
+    "lng": 5.3458
+  },
+  {
+    "id": "bastogne",
+    "name": "Bastogne",
+    "province": "Luxembourg",
+    "region": "Wallonië",
+    "lat": 50.0026,
+    "lng": 5.7167
+  },
+  {
+    "id": "libramont",
+    "name": "Libramont-Chevigny",
+    "province": "Luxembourg",
+    "region": "Wallonië",
+    "lat": 49.9208,
+    "lng": 5.378
+  },
+  {
+    "id": "neufchateau",
+    "name": "Neufchâteau",
+    "province": "Luxembourg",
+    "region": "Wallonië",
+    "lat": 49.8451,
+    "lng": 5.4312
+  },
+  {
+    "id": "florenville",
+    "name": "Florenville",
+    "province": "Luxembourg",
+    "region": "Wallonië",
+    "lat": 49.6923,
+    "lng": 5.312
+  },
+  {
+    "id": "bouillon",
+    "name": "Bouillon",
+    "province": "Luxembourg",
+    "region": "Wallonië",
+    "lat": 49.7946,
+    "lng": 5.0637
+  },
+  {
+    "id": "bertrix",
+    "name": "Bertrix",
+    "province": "Luxembourg",
+    "region": "Wallonië",
+    "lat": 49.8577,
+    "lng": 5.259
+  },
+  {
+    "id": "paliseul",
+    "name": "Paliseul",
+    "province": "Luxembourg",
+    "region": "Wallonië",
+    "lat": 49.904,
+    "lng": 5.1377
+  },
+  {
+    "id": "chiny",
+    "name": "Chiny",
+    "province": "Luxembourg",
+    "region": "Wallonië",
+    "lat": 49.7329,
+    "lng": 5.3307
+  },
+  {
+    "id": "etalle",
+    "name": "Étalle",
+    "province": "Luxembourg",
+    "region": "Wallonië",
+    "lat": 49.6818,
+    "lng": 5.6012
+  },
+  {
+    "id": "tintigny",
+    "name": "Tintigny",
+    "province": "Luxembourg",
+    "region": "Wallonië",
+    "lat": 49.6829,
+    "lng": 5.5147
+  },
+  {
+    "id": "habay",
+    "name": "Habay",
+    "province": "Luxembourg",
+    "region": "Wallonië",
+    "lat": 49.7233,
+    "lng": 5.6387
+  },
+  {
+    "id": "messancy",
+    "name": "Messancy",
+    "province": "Luxembourg",
+    "region": "Wallonië",
+    "lat": 49.5921,
+    "lng": 5.8169
+  },
+  {
+    "id": "aubange",
+    "name": "Aubange",
+    "province": "Luxembourg",
+    "region": "Wallonië",
+    "lat": 49.5672,
+    "lng": 5.8015
+  },
+  {
+    "id": "attert",
+    "name": "Attert",
+    "province": "Luxembourg",
+    "region": "Wallonië",
+    "lat": 49.7471,
+    "lng": 5.7822
+  },
+  {
+    "id": "fauvillers",
+    "name": "Fauvillers",
+    "province": "Luxembourg",
+    "region": "Wallonië",
+    "lat": 49.8738,
+    "lng": 5.6688
+  },
+  {
+    "id": "gouvy",
+    "name": "Gouvy",
+    "province": "Luxembourg",
+    "region": "Wallonië",
+    "lat": 50.1903,
+    "lng": 5.9583
+  },
+  {
+    "id": "houffalize",
+    "name": "Houffalize",
+    "province": "Luxembourg",
+    "region": "Wallonië",
+    "lat": 50.1319,
+    "lng": 5.7886
+  },
+  {
+    "id": "sainte-ode",
+    "name": "Sainte-Ode",
+    "province": "Luxembourg",
+    "region": "Wallonië",
+    "lat": 50.0641,
+    "lng": 5.5325
+  },
+  {
+    "id": "tenneville",
+    "name": "Tenneville",
+    "province": "Luxembourg",
+    "region": "Wallonië",
+    "lat": 50.0893,
+    "lng": 5.5176
+  },
+  {
+    "id": "nassogne",
+    "name": "Nassogne",
+    "province": "Luxembourg",
+    "region": "Wallonië",
+    "lat": 50.1278,
+    "lng": 5.3418
+  },
+  {
+    "id": "la-roche-en-ardenne",
+    "name": "La Roche-en-Ardenne",
+    "province": "Luxembourg",
+    "region": "Wallonië",
+    "lat": 50.1826,
+    "lng": 5.5765
+  },
+  {
+    "id": "rendeux",
+    "name": "Rendeux",
+    "province": "Luxembourg",
+    "region": "Wallonië",
+    "lat": 50.2275,
+    "lng": 5.5097
+  },
+  {
+    "id": "hotton",
+    "name": "Hotton",
+    "province": "Luxembourg",
+    "region": "Wallonië",
+    "lat": 50.2686,
+    "lng": 5.4516
+  },
+  {
+    "id": "erezee",
+    "name": "Érezée",
+    "province": "Luxembourg",
+    "region": "Wallonië",
+    "lat": 50.2639,
+    "lng": 5.5638
+  },
+  {
+    "id": "manhay2",
+    "name": "Manhay",
+    "province": "Luxembourg",
+    "region": "Wallonië",
+    "lat": 50.2953,
+    "lng": 5.6894
+  },
+  {
+    "id": "wavre",
+    "name": "Wavre",
+    "province": "Brabant Wallon",
+    "region": "Wallonië",
+    "aliases": [
+      "Waver"
+    ],
+    "lat": 50.7179,
+    "lng": 4.6092
+  },
+  {
+    "id": "nivelles",
+    "name": "Nivelles",
+    "province": "Brabant Wallon",
+    "region": "Wallonië",
+    "aliases": [
+      "Nijvel"
+    ],
+    "lat": 50.5987,
+    "lng": 4.329
+  },
+  {
+    "id": "braine-l-alleud",
+    "name": "Braine-l'Alleud",
+    "province": "Brabant Wallon",
+    "region": "Wallonië",
+    "lat": 50.6833,
+    "lng": 4.3666
+  },
+  {
+    "id": "ottignies2",
+    "name": "Ottignies-Louvain-la-Neuve",
+    "province": "Brabant Wallon",
+    "region": "Wallonië",
+    "lat": 50.6696,
+    "lng": 4.568
+  },
+  {
+    "id": "waterloo",
+    "name": "Waterloo",
+    "province": "Brabant Wallon",
+    "region": "Wallonië",
+    "lat": 50.7168,
+    "lng": 4.3975
+  },
+  {
+    "id": "rixensart",
+    "name": "Rixensart",
+    "province": "Brabant Wallon",
+    "region": "Wallonië",
+    "lat": 50.7071,
+    "lng": 4.5295
+  },
+  {
+    "id": "genappe",
+    "name": "Genappe",
+    "province": "Brabant Wallon",
+    "region": "Wallonië",
+    "lat": 50.6103,
+    "lng": 4.4513
+  },
+  {
+    "id": "lasne",
+    "name": "Lasne",
+    "province": "Brabant Wallon",
+    "region": "Wallonië",
+    "lat": 50.6682,
+    "lng": 4.4717
+  },
+  {
+    "id": "court-saint-etienne",
+    "name": "Court-Saint-Étienne",
+    "province": "Brabant Wallon",
+    "region": "Wallonië",
+    "lat": 50.6313,
+    "lng": 4.5696
+  },
+  {
+    "id": "villers-la-ville",
+    "name": "Villers-la-Ville",
+    "province": "Brabant Wallon",
+    "region": "Wallonië",
+    "lat": 50.5712,
+    "lng": 4.5339
+  },
+  {
+    "id": "chastre",
+    "name": "Chastre",
+    "province": "Brabant Wallon",
+    "region": "Wallonië",
+    "lat": 50.5699,
+    "lng": 4.6416
+  },
+  {
+    "id": "mont-saint-guibert",
+    "name": "Mont-Saint-Guibert",
+    "province": "Brabant Wallon",
+    "region": "Wallonië",
+    "lat": 50.6139,
+    "lng": 4.6188
+  },
+  {
+    "id": "incourt",
+    "name": "Incourt",
+    "province": "Brabant Wallon",
+    "region": "Wallonië",
+    "lat": 50.6865,
+    "lng": 4.7341
+  },
+  {
+    "id": "perwez",
+    "name": "Perwez",
+    "province": "Brabant Wallon",
+    "region": "Wallonië",
+    "lat": 50.6249,
+    "lng": 4.8122
+  },
+  {
+    "id": "jodoigne",
+    "name": "Jodoigne",
+    "province": "Brabant Wallon",
+    "region": "Wallonië",
+    "aliases": [
+      "Geldenaken"
+    ],
+    "lat": 50.7176,
+    "lng": 4.8694
+  },
+  {
+    "id": "ramillies",
+    "name": "Ramillies",
+    "province": "Brabant Wallon",
+    "region": "Wallonië",
+    "lat": 50.6436,
+    "lng": 4.8895
+  },
+  {
+    "id": "beauvechain",
+    "name": "Beauvechain",
+    "province": "Brabant Wallon",
+    "region": "Wallonië",
+    "lat": 50.7478,
+    "lng": 4.7554
+  },
+  {
+    "id": "chaumont-gistoux",
+    "name": "Chaumont-Gistoux",
+    "province": "Brabant Wallon",
+    "region": "Wallonië",
+    "lat": 50.6779,
+    "lng": 4.7028
+  },
+  {
+    "id": "walhain",
+    "name": "Walhain",
+    "province": "Brabant Wallon",
+    "region": "Wallonië",
+    "lat": 50.6013,
+    "lng": 4.6887
+  },
+  {
+    "id": "braine-le-chateau",
+    "name": "Braine-le-Château",
+    "province": "Brabant Wallon",
+    "region": "Wallonië",
+    "lat": 50.6807,
+    "lng": 4.268
+  },
+  {
+    "id": "ittre",
+    "name": "Ittre",
+    "province": "Brabant Wallon",
+    "region": "Wallonië",
+    "lat": 50.646,
+    "lng": 4.2718
+  },
+  {
+    "id": "rebecq",
+    "name": "Rebecq",
+    "province": "Brabant Wallon",
+    "region": "Wallonië",
+    "lat": 50.6651,
+    "lng": 4.1405
+  }
+]
