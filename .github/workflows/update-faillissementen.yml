@@ -1,0 +1,55 @@
+name: Update faillissementen data
+
+on:
+  schedule:
+    - cron: "0 2 * * *" # daily 02:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+env:
+  SBM_ACCOUNTID: "5113819"
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Download VAT-lijst uit KBO daily
+        run: |
+          python3 scripts/fetch_kbo_daily_vats.py
+        continue-on-error: true
+
+      - name: Fetch faillissementen via Staatsbladmonitor
+        env:
+          SBM_APIKEY: ${{ secrets.SBM_APIKEY }}
+        run: |
+          if [ -z "$SBM_APIKEY" ]; then
+            echo "SBM_APIKEY secret ontbreekt; stop."
+            exit 1
+          fi
+          python3 scripts/fetch_staatsbladmonitor.py \
+            --vat-file data/raw/vats.txt \
+            --apikey "$SBM_APIKEY" \
+            --accountid "$SBM_ACCOUNTID" \
+            --output data/faillissementen.json
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet data/faillissementen.json; then
+            echo "Geen wijzigingen."
+            exit 0
+          fi
+          git add data/faillissementen.json
+          git commit -m "chore: update faillissementen $(date -u +%Y-%m-%d)"
+          git push
