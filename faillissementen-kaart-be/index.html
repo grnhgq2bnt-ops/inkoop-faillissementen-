@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="nl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Faillissementen per gemeente (BE)</title>
+    <meta name="description" content="Kaarttool die faillissementen per Belgische gemeente visualiseert." />
+    <meta name="theme-color" content="#0f172a" />
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <link rel="icon" href="./assets/icon.svg" type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,450..900&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app">
+      <header class="topbar">
+        <div class="brand">
+          <div class="brand__mark" aria-hidden="true"></div>
+          <div class="brand__text">
+            <div class="brand__title">Faillissementenkaart</div>
+            <div class="brand__subtitle">België · per gemeente</div>
+          </div>
+        </div>
+        <div class="topbar__actions">
+          <input id="file-input" type="file" accept=".csv,.json" hidden />
+          <button id="btn-upload" class="btn btn--ghost" type="button" title="Laad een CSV/JSON met faillissementen">Upload CSV/JSON</button>
+          <button id="btn-export" class="btn btn--ghost" type="button" title="Download gefilterde resultaten als CSV">Export CSV</button>
+          <button id="btn-install" class="btn btn--primary" type="button" hidden>Installeer app</button>
+        </div>
+      </header>
+      <main class="layout">
+        <aside class="panel">
+          <section class="card card--hero">
+            <div class="hero__kicker">Inkoop signalen</div>
+            <h1 class="hero__title">Waar stapelen faillissementen zich op?</h1>
+            <p class="hero__desc">Filter op periode, zoek op bedrijf of adres, en klik op gemeenten voor detail.</p>
+          </section>
+          <section class="card">
+            <div class="card__title">Filters</div>
+            <form id="filters" class="filters" autocomplete="off">
+              <label class="field">
+                <span class="field__label">Periode</span>
+                <div class="field__row">
+                  <input id="date-from" class="input" type="date" />
+                  <span class="field__sep">→</span>
+                  <input id="date-to" class="input" type="date" />
+                </div>
+              </label>
+              <label class="field">
+                <span class="field__label">Zoek</span>
+                <input id="q" class="input" type="search" placeholder="Bedrijf, straat, postcode…" />
+              </label>
+              <label class="field">
+                <span class="field__label">Provincie</span>
+                <select id="province" class="input select"><option value="">Alle provincies</option></select>
+              </label>
+              <label class="field field--inline">
+                <input id="only-with" type="checkbox" class="checkbox" checked />
+                <span class="field__label">Toon enkel gemeenten met resultaten</span>
+              </label>
+              <div class="filters__row">
+                <button id="btn-reset" class="btn btn--ghost" type="button">Reset</button>
+                <button id="btn-fit" class="btn btn--primary" type="button">Zoom naar resultaten</button>
+              </div>
+            </form>
+          </section>
+          <section class="card">
+            <div class="card__title">Overzicht</div>
+            <div class="stats">
+              <div class="stat"><div id="stat-total" class="stat__value">–</div><div class="stat__label">Faillissementen (filter)</div></div>
+              <div class="stat"><div id="stat-muni" class="stat__value">–</div><div class="stat__label">Gemeenten met hits</div></div>
+              <div class="stat"><div id="stat-max" class="stat__value">–</div><div class="stat__label">Max per gemeente</div></div>
+            </div>
+          </section>
+          <section class="card card--list">
+            <div class="card__title">Top provincies</div>
+            <ol id="province-list" class="provlist"></ol>
+          </section>
+          <section class="card card--list">
+            <div class="card__title">Top gemeenten</div>
+            <ol id="top-list" class="toplist"></ol>
+          </section>
+          <section class="card card--detail">
+            <div class="card__title">Detail</div>
+            <div id="detail" class="detail detail--empty"><div class="detail__empty">Klik op een gemeente-cirkel op de kaart.</div></div>
+          </section>
+        </aside>
+        <section class="mapwrap">
+          <div id="map" class="map" role="application" aria-label="Kaart met faillissementen per gemeente"></div>
+          <div class="map__legend" id="legend">
+            <div class="legend__title">Intensiteit</div>
+            <div class="legend__scale">
+              <span class="legend__dot legend__dot--s"></span>
+              <span class="legend__dot legend__dot--m"></span>
+              <span class="legend__dot legend__dot--l"></span>
+            </div>
+            <div class="legend__labels"><span>laag</span><span>hoog</span></div>
+          </div>
+        </section>
+      </main>
+    </div>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="./app.js" type="module"></script>
+  </body>
+</html>
